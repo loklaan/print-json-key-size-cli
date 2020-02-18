@@ -1,0 +1,19 @@
+{
+  "name": "print-json-key-size-cli",
+  "version": "1.0.0",
+  "description": "Prints the size of root keys in a JSON file.",
+  "main": "index.js",
+  "bin": {
+    "json-key-size": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "file.json"
+  ],
+  "author": "Lochlan Bunn <bunn@lochlan.io>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "meow": "^6.0.1"
+  }
+}
