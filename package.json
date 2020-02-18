@@ -1,6 +1,6 @@
 {
   "name": "print-json-key-size-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prints the size of root keys in a JSON file.",
   "main": "index.js",
   "bin": {
