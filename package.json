@@ -10,6 +10,8 @@
     "index.js",
     "file.json"
   ],
+  "homepage": "https://github.com/loklaan/print-json-key-size-cli",
+  "repository": "github:loklaan/print-json-key-size-cli",
   "author": "Lochlan Bunn <bunn@lochlan.io>",
   "license": "MIT",
   "dependencies": {
